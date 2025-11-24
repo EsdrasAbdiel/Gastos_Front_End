@@ -17,7 +17,7 @@ export interface Gastos {
 
 @Component({
   selector: 'app-detalhes',
-  imports: [MatDividerModule, MatCardModule, MatGridListModule, MatInputModule, MatFormFieldModule, MatIconModule, CommonModule, JsonPipe, FormsModule, ReactiveFormsModule],
+  imports: [MatDividerModule, MatCardModule, MatGridListModule, MatInputModule, MatFormFieldModule, MatIconModule, CommonModule, FormsModule, ReactiveFormsModule],
   templateUrl: './detalhes.component.html',
   styleUrls: ['./detalhes.component.scss', '../../../assets/colors.scss']
 })
