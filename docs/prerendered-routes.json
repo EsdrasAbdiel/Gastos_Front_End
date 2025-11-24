@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/Gastos_Front_End/consulta": {},
+    "/Gastos_Front_End/detalhes": {}
+  }
+}
